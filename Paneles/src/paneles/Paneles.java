@@ -29,7 +29,6 @@ public class Paneles {
 
 
     public static void main(String[] args) {
-        System.out.println("feo");
         marco.setTitle("Marco que incluye 3 paneles");
         //se añaden los controles a los paneles
         p1.add(l1);
